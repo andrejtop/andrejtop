@@ -11,7 +11,7 @@ I am completing a 2-year professional retraining course Netology.ru
 * 🧠 I'm learning now Django
 
 ```python
-class RafnixG:
+class Toptaev:
 
     def __init__(self):
         self.username = 'Toptaev'
