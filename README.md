@@ -8,7 +8,7 @@ I am completing a 2-year professional retraining course Netology.ru
 
 * 🌍 I'm based in Sarov, Russia
 * ✉️ You can contact me at [toptaev@gmail.com](mailto:toptaev@gmail.com)
-* 🧠 I'm learning now Django, Flask
+* 🧠 I'm learning now HTML, CSS
 
 ```python
 class ToptaevA:
@@ -17,10 +17,6 @@ class ToptaevA:
         self.username = 'Toptaev'
         self.name = 'Andrey Toptaev'
         self.position = 'Python Full-stack Developer'
-        self.web = 'https://toptaev.dev'
-        self.blog = 'https://blog.toptaev.dev'
-        self.cv = 'https://toptaev.dev/resume'
-        self.twitter = '@toptaev'
         self.code = {
             'backend': ['Python', 'Flask', 'Django'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
