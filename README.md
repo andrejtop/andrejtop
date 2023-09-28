@@ -44,3 +44,4 @@ if __name__ == '__main__':
 ### Badges
 
 <a href="https://github.com/andrejtop" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejtop&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrejtop&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="andrejtop" align = "center"/></p>
