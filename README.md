@@ -8,7 +8,7 @@ I am completing a 2-year professional retraining course Netology.ru
 
 * 🌍 I'm based in Sarov, Russia
 * ✉️ You can contact me at [toptaev@gmail.com](mailto:toptaev@gmail.com)
-* 🧠 I'm learning now HTML, CSS
+* 🧠 I'm learning now JavaScript
 
 ```python
 class ToptaevA:
