@@ -1,3 +1,4 @@
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrey Toptaev
 ======================================================================================================================================
 
@@ -43,4 +44,4 @@ if __name__ == '__main__':
 
 ### Badges 
 <p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrejtop&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="andrejtop" align = "center"/></p>
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
